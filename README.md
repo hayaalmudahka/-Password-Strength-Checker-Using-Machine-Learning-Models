@@ -12,5 +12,16 @@ numpy
 seaborn
 #
 sklearn
+# Machine learning models used in the project
+Random Forest
+#
+Decision Tree
+#
+Logistic Regression
+#
+Knn
+#
+XGBoost
 
 
+![image](https://user-images.githubusercontent.com/99261355/235500965-5f285c16-cf14-4bce-8870-712f818879dc.png
