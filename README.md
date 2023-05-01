@@ -8,5 +8,6 @@ numpy
 seaborn
 #
 sklearn
-#
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa0lK_K8Wf7O2SbcBl5JLLoZpcddPWV08tg&usqp=CAU
+# Out put 
+
+![Passwords-1024x512](https://user-images.githubusercontent.com/99261355/235495506-cbdf8a8b-bbcb-4d21-9e15-deeaa6938b30.png)
