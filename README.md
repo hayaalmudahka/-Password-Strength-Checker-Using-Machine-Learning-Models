@@ -9,4 +9,4 @@ seaborn
 #
 sklearn
 #
-You can open the .ipynb file using Google Collab or Jupyter Notebook
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa0lK_K8Wf7O2SbcBl5JLLoZpcddPWV08tg&usqp=CAU
