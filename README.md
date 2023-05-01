@@ -22,4 +22,3 @@ Logistic Regression
 Knn
 #
 XGBoost
-![LR Classifier](https://user-images.githubusercontent.com/99261355/235501055-125926c9-127d-44fc-bd79-3914282c983c.jpg)
