@@ -8,3 +8,5 @@ numpy
 seaborn
 #
 sklearn
+#
+You can open the .ipynb file using Google Collab or Jupyter Notebook
