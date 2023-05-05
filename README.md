@@ -19,6 +19,6 @@ Decision Tree
 #
 Logistic Regression
 #
-Knn
+KNN
 #
 XGBoost
